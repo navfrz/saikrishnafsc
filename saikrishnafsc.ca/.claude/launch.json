@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "saikrishna-site",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "/Users/aarnavsobti/saikrishna_scrape/saikrishnafsc.ca", "-l", "3000", "--no-clipboard"],
+      "port": 3000
+    }
+  ]
+}
